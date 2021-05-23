@@ -1,2 +1,2 @@
-# image-collators
-Image collation for detector training
+# Collagist
+Image collage for detector training
