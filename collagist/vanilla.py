@@ -2,6 +2,8 @@ import torch
 from torch import Tensor
 from typing import Sequence
 
+__all__ = ["vanilla_collage"]
+
 
 def vanilla_collage(images: Sequence[Tensor], n_row: int, n_column: int):
     """vanilla collage
