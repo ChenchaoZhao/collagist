@@ -1,6 +1,6 @@
 import torch
 from torch import Tensor
-from typing import *
+from typing import Sequence
 
 
 def vanilla_collage(images: Sequence[Tensor], n_row: int, n_column: int):
